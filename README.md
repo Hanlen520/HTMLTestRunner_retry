@@ -1,3 +1,5 @@
+note:转载他人开源文件，原GitHub地址：https://github.com/GoverSky/HTMLTestRunner_cn.git
+
 # HTMLTestRunner 汉化版
 在原版的基础上进行扩展和改造
 # 报告汉化，错误日志
